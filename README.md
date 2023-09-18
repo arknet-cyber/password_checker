@@ -42,3 +42,6 @@ if __name__ == '__main__': block:
 
 This block of code ensures that the main() function is only executed if the script is run directly (not imported as a module).
 It passes the command-line arguments (excluding the script name itself) to the main() function.
+
+Usage:
+python3 pass-checker password123
